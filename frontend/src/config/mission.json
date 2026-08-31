@@ -1,0 +1,44 @@
+{
+  "id": "lunar-south-pole-expedition",
+  "name": "Lunar South Pole Expedition",
+  "destination": "Moon",
+  "operatingRegion": "Lunar South Pole",
+  "environment": "Lunar surface",
+  "objective": "Map ice-rich regolith and protect the rover before lunar nightfall.",
+  "spacecraft": "Nexus Polar Operations Lander",
+  "communicationDelaySeconds": 1.28,
+  "activePhase": "Surface Operations",
+  "incident": {
+    "id": "lunar-nightfall-rescue",
+    "name": "Lunar Nightfall Rescue"
+  },
+  "assets": {
+    "primary": { "id": "astra-1", "name": "Astra-1", "role": "rover" },
+    "support": { "id": "nova", "name": "Nova", "role": "reconnaissance drone" },
+    "relay": { "id": "selene", "name": "Selene", "role": "base station" }
+  },
+  "missionPhases": [
+    "Earth Launch",
+    "Trans-Lunar Flight",
+    "Lunar Orbit",
+    "Surface Operations",
+    "Contingency Operations"
+  ],
+  "launchPhases": [
+    "Earth Launch",
+    "Atmosphere Exit",
+    "Trans-Lunar Flight",
+    "Lunar Approach",
+    "Lunar Orbit",
+    "Surface Operations"
+  ],
+  "region": {
+    "latitude": -89.542,
+    "longitude": 124.218,
+    "reference": "Shackleton rim operations sector"
+  },
+  "limitation": "This prototype uses simulated telemetry and does not control spacecraft.",
+  "futureMissions": [
+    { "id": "future-mars-expedition", "name": "Mars Expedition", "status": "Unavailable" }
+  ]
+}
