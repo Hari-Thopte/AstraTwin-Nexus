@@ -1,0 +1,55 @@
+
+> astratwin-nexus-frontend@1.0.0 dev
+> vite --host 127.0.0.1 --port 3000
+
+
+  VITE v5.4.21  ready in 3316 ms
+
+  ➜  Local:   http://127.0.0.1:3000/
+8:18:53 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+8:18:53 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+8:18:54 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+8:19:33 pm [vite] hmr update /src/index.css
+8:19:35 pm [vite] hmr update /src/index.css
+8:20:52 pm [vite] hmr update /src/index.css
+8:20:54 pm [vite] hmr update /src/index.css
+8:21:49 pm [vite] hmr update /src/index.css
+8:21:51 pm [vite] hmr update /src/index.css
+8:22:54 pm [vite] hmr update /src/App.tsx, /src/index.css
+8:22:56 pm [vite] hmr update /src/App.tsx, /src/index.css
+8:24:45 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+8:24:48 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+8:25:21 pm [vite] hmr update /src/index.css
+8:25:23 pm [vite] hmr update /src/index.css
+8:27:12 pm [vite] hmr update /src/index.css
+8:27:14 pm [vite] hmr update /src/index.css
+8:36:24 pm [vite] hmr update /src/index.css
+8:36:25 pm [vite] hmr update /src/index.css
+8:37:06 pm [vite] hmr update /src/index.css
+8:37:08 pm [vite] hmr update /src/index.css
+8:38:52 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+8:38:53 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+8:38:54 pm [vite] hmr update /src/index.css
+8:38:55 pm [vite] hmr update /src/index.css
+9:09:16 pm [vite] hmr update /src/components/experience/MissionCorridorMap.tsx, /src/index.css
+9:09:17 pm [vite] hmr update /src/pages/MissionControlPage.tsx, /src/index.css
+9:09:18 pm [vite] hmr update /src/components/experience/MissionCorridorMap.tsx, /src/index.css
+9:09:19 pm [vite] hmr update /src/index.css
+9:09:20 pm [vite] hmr update /src/pages/MissionControlPage.tsx, /src/index.css
+9:09:21 pm [vite] hmr update /src/index.css
+9:13:37 pm [vite] hmr update /src/index.css
+9:13:39 pm [vite] hmr update /src/index.css
+9:18:07 pm [vite] hmr update /src/components/layout/TopBar.tsx, /src/index.css
+9:18:08 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+9:18:08 pm [vite] hmr update /src/components/layout/TopBar.tsx, /src/index.css
+9:18:09 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+9:18:55 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+9:18:56 pm [vite] hmr update /src/pages/MissionCouncilPage.tsx, /src/index.css
+9:20:03 pm [vite] hmr update /src/index.css
+9:20:05 pm [vite] hmr update /src/index.css
+9:20:20 pm [vite] hmr update /src/index.css
+9:20:21 pm [vite] hmr update /src/index.css
+9:22:57 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+9:22:59 pm [vite] hmr update /src/components/layout/AppShell.tsx, /src/index.css
+9:22:59 pm [vite] hmr update /src/index.css
+9:23:00 pm [vite] hmr update /src/index.css

@@ -1,0 +1,9 @@
+
+> astratwin-nexus-frontend@1.0.0 dev
+> vite --host 127.0.0.1 --port 3000
+
+Re-optimizing dependencies because vite config has changed
+
+  VITE v5.4.21  ready in 506 ms
+
+  ➜  Local:   http://127.0.0.1:3000/
